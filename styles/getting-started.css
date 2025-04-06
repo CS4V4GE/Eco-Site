@@ -16,7 +16,7 @@ header {
     justify-content: space-between;
     background-color: white;
     padding: 20px 40px; 
-    box-shadow: 0 2lpx 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     background-color: #7FA488;
 }
 
@@ -129,7 +129,6 @@ h1 {
 }
 h1, h2, h3 {
     font-family: "Nunito", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     color: #7FA488;
@@ -166,7 +165,6 @@ footer p {
 p {
     color: #8B7355;
     font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
 }

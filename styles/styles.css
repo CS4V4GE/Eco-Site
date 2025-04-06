@@ -27,7 +27,6 @@ header {
 p {
     color: #8B7355;
     font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
 }
@@ -100,7 +99,6 @@ input, button {
 }
 h1, h2, h3 {
     font-family: "Nunito", sans-serif;
-    font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
     color: #7FA488;
