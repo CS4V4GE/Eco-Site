@@ -133,7 +133,12 @@ h1, h2, h3 {
     font-style: normal;
     color: #7FA488;
 }
-
+#faq-img {
+    background-image: url('../images/LivingTips.png');
+}
+#faq-img h1 {
+    color: black;
+}
 footer {
     text-align: center;
     padding: 20px;
@@ -169,5 +174,11 @@ p {
     font-style: normal;
 }
 .logo{
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.eco-image {
+    width: 20%;
+    height: auto;
+    margin: 20px 0;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
